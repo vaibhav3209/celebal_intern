@@ -23,7 +23,11 @@ __pycache__/
 # =========================
 # Folders
 # =========================
-./DOCS
-./Guides
+DOCS/
+Guides/
 
-./Week1/data.csv
+
+# =========================
+# Original Files
+# =========================
+Week1/data.csv
